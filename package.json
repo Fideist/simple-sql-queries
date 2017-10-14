@@ -1,0 +1,20 @@
+{
+  "name": "simple-sql-queries",
+  "version": "1.0.0",
+  "description": "For today we will be practicing inserting and querying data using SQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fideist/simple-sql-queries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fideist/simple-sql-queries/issues"
+  },
+  "homepage": "https://github.com/Fideist/simple-sql-queries#readme"
+}
